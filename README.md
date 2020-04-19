@@ -1,5 +1,7 @@
 # DSC-Covid-and-Census
-Data science project using US Census data to model and analyze the spread of COVID19
+Data science project using US Census data to model and analyze the spread of COVID19.  
+Developed using Google Colaboratory, and is best viewed using said platform or a Jupyter Notebook.
+
 
 ## Please note that this project is in development and many aspects of it can/will change.
 
